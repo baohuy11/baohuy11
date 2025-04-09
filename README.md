@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, LLM, MLOps
 - 🌱 I’m currently learning AI, LLM, MLOps,...
 - 💞️ I know C/C++, Python, ...
-- 📫 How to reach me [...](https://www.linkedin.com/in/huy-nguyen-phung-bao-57a768338/)
+- 📫 How to reach me [Huy](https://www.linkedin.com/in/huy-nguyen-phung-bao-57a768338/)
 - ⚡ Fun fact: I'm in a different majors 
 
 <!---
