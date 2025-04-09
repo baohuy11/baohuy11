@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Bao Huy Nguyen Phung
+## 👋 Hi there, I'm Nguyen Phung Bao Huy
 
 I'm passionate about **Artificial Intelligence**, especially **Large Language Models (LLMs)** and **MLOps**.  
 
