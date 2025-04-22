@@ -4,7 +4,7 @@
 -->
 
 ## 👋 Hello, I’m Nguyen Phung Bao Huy
-- 🎓 **Student** at Tokyo Institute of Science  
+- 🎓 **Student** at Institute of Science Tokyo
 - 🔬 **Passionate** about Artificial Intelligence, especially LLMs & MLOps  
 
 ### 💡 What I'm working on:
