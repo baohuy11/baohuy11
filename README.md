@@ -8,7 +8,7 @@ I'm passionate about **Artificial Intelligence**, especially **Large Language Mo
 - Participating in machine learning competitions and open-source projects  
 
 ### 🧠 Skills & Tools:
-- **Languages:** Python, C/C++  
+- **Languages:** Unix/Linux, Python, C/C++  
 - **Interests:** AI, LLMs, MLOps, Model Evaluation & Deployment  
 
 ### 📚 Currently Learning:
