@@ -7,42 +7,27 @@
 - 🎓 **Student** at Tokyo Institute of Science  
 - 🔬 **Passionate** about Artificial Intelligence, especially LLMs & MLOps  
 
+### 💡 What I'm working on:
+- Exploring cutting-edge AI and LLM technologies  
+- Building tools and pipelines for scalable ML systems  
+- Participating in machine learning competitions and open-source projects  
 
-## 📊 GitHub Stats
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenphungbaohuy.nguyenphungbaohuy)  
-![Huy’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenphungbaohuy&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphungbaohuy&layout=compact)
+### 🧠 Skills & Tools:
+- **Languages:** Unix/Linux, Python, C/C++  
+- **Interests:** AI, LLMs, MLOps, Model Evaluation & Deployment  
 
-## 💼 Tasks & Projects
+### 📚 Currently Learning:
+- Advanced MLOps techniques  
+- Model fine-tuning & optimization  
+- Production-level AI systems  
 
-### 🐍 Python
-- **Mini-LLM ChatBot** using Python
-- **ROC AUC Pipeline**: Data ingestion → feature engineering → evaluation  
+### 📫 Let's connect:  
+[LinkedIn – Huy Nguyen Phung Bao](https://www.linkedin.com/in/huy-nguyen-phung-bao-57a768338/)
 
-### 💻 C / C++
-- **Custom Memory Allocator** & `doubleModulus(a, b)` without `fmod`  
-- **OOP Snake Game** with NCurses  
+### ⚡ Fun fact:
+Although my major isn't in AI, I've fully committed myself to diving deep into this field—learning, building, and growing every day 
 
-### 🐧 Unix / Linux
-- **Automated Backup** via Bash & Cron  
-- **Conda-Powered** containerization for reproducible environments  
 
-## 🛠️ Skills & Tools
-- **Languages:** `Python`, `C/C++`, `Unix/Linux`  
-- **Frameworks:** `PyTorch`, `FastAPI`, `GitHub Actions`  
-- **Tools:** `Conda`, `Docker`, `TensorBoard`  
-
-## 📚 Currently Learning
-- Advanced **MLOps** workflows & model optimization  
-- Production‑level **AI** systems & fine-tuning techniques  
-
-## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/huy-nguyen-phung-bao-57a768338/)
-
----
-
-### ⚡ Fun Fact
-> I transitioned from a non‑AI major to mastering LLMs and MLOps—growth never stops!
 <!---
 baohuy11/baohuy11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
